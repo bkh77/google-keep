@@ -1,15 +1,9 @@
 <template>
-  <div class="">
-    <h1 class="text-3xl font-bold underline">Hello world!</h1>
-  </div>
+  <NavBar />
 </template>
 
-<script>
-export default {
-  data() {
-    return {}
-  },
-}
+<script setup>
+import NavBar from '@/components/NavBar.vue'
 </script>
 
 <style scoped></style>
