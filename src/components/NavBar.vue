@@ -22,7 +22,7 @@
     </div>
 
     <div class="relative grow">
-      <button title="Search" class="btn p-2 absolute left-2">
+      <button title="Search" class="p-2 mt-1 absolute left-2">
         <svg
           xmlns="http://www.w3.org/2000/svg"
           fill="none"
@@ -41,7 +41,7 @@
       <input type="text" class="search-input" placeholder="Search" />
     </div>
 
-    <div class="flex items-center">
+    <div class="flex items-center space-x-2">
       <button title="Refresh" class="btn">
         <svg
           xmlns="http://www.w3.org/2000/svg"
