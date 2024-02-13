@@ -5,8 +5,7 @@
 
 <script setup>
 import NavBar from '@/components/NavBar.vue'
-import SideBar from '@/components/SideBar.vue'
-
+import SideBar from '@/components/sidebar/SideBar.vue'
 </script>
 
 <style scoped></style>

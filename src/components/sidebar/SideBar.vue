@@ -14,7 +14,7 @@
 
 <script setup>
 import SideBarItem from './SideBarItem.vue'
-import lists from '../../public/SideBarItemList'
+import lists from './SideBarItemList.js'
 
 import { ref } from 'vue'
 const active = ref('Notes')
